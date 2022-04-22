@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CraftModzZ
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning IT/Hacking/Programming
-- 💞️ I’m looking to collaborate on ... <3
+- 💞️ I do many Nice batch and Python Stuff
 - 📫 How to reach me DM me on IG or DC
 
 <!---
