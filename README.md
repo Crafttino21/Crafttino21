@@ -5,7 +5,9 @@
 - 📫 How to reach me DM me on IG or DC
 
 I have some experience with Kenerl and Thier Exploits,
-So I also create System, game, and Console exploits. But I am still learning 
+So I also create System, game, and Console exploits. But I am still learning.
+
+i was an active member in cheating Community with some experiance about game exploits and AntiCheats
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7MF230)
 
