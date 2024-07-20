@@ -1,8 +1,5 @@
-- 👋 Hi, I’m WeepingAngel
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IT/Hacking/Programming
-- 💞️ I do many Nice batch and Python Stuff
-- 📫 How to reach me DM me on IG or DC
+[![WeepingAngel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crafttino21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crafttino21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I have some experience with Kenerl and Thier Exploits,
 So I also create System, game, and Console exploits. But I am still learning.
