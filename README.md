@@ -6,6 +6,8 @@ So I also create System, game, and Console exploits. But I am still learning.
 
 i was an active member in cheating Community with some experiance about game exploits and AntiCheats
 
+Add me on Discord: weepingangeliv
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7MF230)
 
 <!---
